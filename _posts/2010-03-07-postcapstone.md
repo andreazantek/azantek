@@ -1,13 +1,14 @@
 ---
 title: "Senior Capstone Project: Assessing Wildfire Vulnerability Across Crop Types"
+date: 2024-03-01T15:34:30-04:00
 categories:
-  - Blog
+  - blog
 tags:
-  - link
-  - Post Formats
+  - Jekyll
+  - update
 ---
 
-In my senior capstone project, I independently learned how to use ArcGIS in order to complete spatial data analysis. Various modeling techniques were implemented including Geographically Weighted Regression, Generalized Additive Models, and Multinomial Models; findings indicate that grapes tend to be more vulnerable to wildfire events. 
+For my senior capstone project, I independently learned how to use ArcGIS in order to complete spatial data analysis. Various modeling techniques were implemented including Geographically Weighted Regression, Generalized Additive Models, and Multinomial Models; findings indicate that grapes tend to be more vulnerable to wildfire events. 
 
 
 
