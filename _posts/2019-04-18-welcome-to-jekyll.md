@@ -1,6 +1,6 @@
 ---
 title: "Probability Experiment and Simulation"
-date: 2019-04-18T15:34:30-04:00
+date: 2024-02-28T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-In this project, I manually calcuate the probability of an generated experiment. I also create a simulation to confirm the results of the experiment. 
+In this project, I manually calcuated the probability of an experiment using tools like the Law of Total Probability and the negative hypergeometric distribution. I also created a simulation to confirm the results of the experiment. 
 
 <a href="https://github.com/azantek/azantek.github.io/blob/master/PortfolioCopy.html">Link Text</a>
 
