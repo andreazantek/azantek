@@ -7,4 +7,4 @@ In this project, we leverage county-level models to analyze how the severity of 
 
 <a href="https://econ380w23-rp.github.io/RP-BeccaAndreaIreneAna-w6Gx5DjV8P4s/introduction.html">Write-Up</a>
 
-<a href="https://econ380w23-rp.github.io/RP-BeccaAndreaIreneAna-w6Gx5DjV8P4s/introduction.html">Presentation</a>
+<a href="https://docs.google.com/presentation/d/1wXI9TbPTLgu5nsJQCd_c-yiv-ch4nRhRzlVtpjdP7gc/edit?usp=sharing">Presentation</a>
