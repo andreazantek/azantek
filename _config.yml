@@ -68,7 +68,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrea-zantek-9564811a1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
