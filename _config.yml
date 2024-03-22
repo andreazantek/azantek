@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Andrea Zantek"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Student at Lawrence University studying Mathematics and Economics."
+  bio    : "Student at Lawrence University studying Mathematics, Economics, and Data Science."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
