@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
 My name is Andrea and I am currently a senior at Lawrence University pursuing a Mathematics-Economics major and Data Science Minor. I am passionate about using data to make meaningful contributions! 
