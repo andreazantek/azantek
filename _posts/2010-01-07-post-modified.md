@@ -1,14 +1,8 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
+title: "Factors Impacting Percentage in Good Health"
+date: 2023-03-01T15:34:30-04:00
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+Through leveraging Linear Mixed Effects Models, we attempt to capture factors that influence the percentage of citizens within a county that are in good health. Findings indicate that the percentage of adults that are uninsured, percentage of children in poverty, percentage of adults that smoke, and percentage with severe housing problems have negative relationships with the percentage of a county who reports good health or above.
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+<a href="https://econ380w23.github.io/PP-BeccaAndreaIreneAna-w6Gx5DjV8P4s/introduction.html">Write-Up</a>
