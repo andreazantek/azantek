@@ -1,12 +1,13 @@
 ---
-title: "Post: Quote"
+title: "Probability Experiment and Simulation"
+date: 2019-04-18T15:34:30-04:00
 categories:
-  - Blog
+  - blog
 tags:
-  - Post Formats
-  - quote
+  - Jekyll
+  - update
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-  
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+Using R Shiny Apps, I created an interactive graphic to visualize the music charts. 
+
+<a href="https://github.com/azantek/azantek.github.io/blob/master/PortfolioCopy.html">Link Text</a>
