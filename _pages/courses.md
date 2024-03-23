@@ -14,7 +14,7 @@ Lawrence University Relevant Courses:
 - MATH230: Discrete Mathematics
 - MATH340: Probability
 - BUEN100: Business & Society
-- ECON191: Directed Studies, where each term concentrated on a particular book or collection of works in economics, including:
+- ECON191: Directed Studies, where each term concentrated on a particular book or collection of works, including:
   - Various works on Liberalism and Populism
   - "The End of the World is Just the Beginning" by Peter Zeihan
   - "The Death & Life of the Great Lakes" by Dan Egan
