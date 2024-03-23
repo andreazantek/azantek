@@ -23,7 +23,7 @@ Lawrence University Relevant Courses:
 - ECON300: Microeconomics
 - ECON380: Econometrics
 - ECON481: Advanced Econometrics & Modeling
-- ECON602 & STAT 698: Senior Capstone Seminar
+- ECON602 & STAT698: Senior Capstone Seminar
 
 
 Whitman College Relevant Courses: 
