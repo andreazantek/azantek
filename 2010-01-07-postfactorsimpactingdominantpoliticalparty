@@ -1,0 +1,7 @@
+---
+title: "Factors Impacting Dominant Political Party"
+date: 2023-03-01T15:34:30-04:00
+---
+
+By implementing a number of Linear Mixed Effects Models, we aimed to capture factors that influence the percentage voting for GOP within a county. Variables of interest include age, race, education, and median income. 
+<a href="https://econ380w23.github.io/CP-BeccaAndreaIreneAna-w6Gx5DjV8P4s/data.html">Write-Up</a>
