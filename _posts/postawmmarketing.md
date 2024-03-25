@@ -8,9 +8,9 @@ Here is a sample of marketing materials that I created for the Association for W
 
 
 
-![AWM Marketing Presentation2](/assets/images/PiDay.jpg)
+(/assets/images/PiDay.jpg)
 
-![AWM Marketing Presentation3](/assets/images/Cider.jpg)
+(/assets/images/Cider.jpg)
 
-![AWM Marketing Presentation1](/assets/images/TEA.pdf)
+(/assets/images/TEA.pdf)
 
