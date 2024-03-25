@@ -6,5 +6,4 @@ date: 2024-03-01T15:34:30-04:00
 Here is a sample of marketing materials that I created for the Association for Women in Math! 
 
 
-<a href="https://docs.google.com/presentation/d/166oQ2FEHkqdnv9LndwpKnS5BuIyowdXo7aGnNuBz2V0/edit?usp=sharing">Presentation</a>
-
+![AWM Marketing Presentation](/assets/images/1592332444545.jpeg)
