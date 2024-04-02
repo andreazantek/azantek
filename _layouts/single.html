@@ -1,3 +1,11 @@
 ---
 layout: default
 ---
+
+ <main>
+        <article>
+            <!-- Display content of a single post -->
+            <h2>{{ page.title }}</h2>
+            <p>{{ content | markdownify }}</p>
+        </article>
+    </main>
