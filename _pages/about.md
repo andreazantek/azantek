@@ -1,4 +1,4 @@
----
+w---
 permalink: /about/
 title: "About Me"
 ---
@@ -11,7 +11,7 @@ I am involved in a couple of extracuricular activities on campus. I am a board m
 
 I also work at a gift shop called Blue Moon Emporium. We sell locally made artwork and gifts like prints, ceramics, and more. in addition to customer service responsibilities, I assist in making our in-house products, performing tasks such as branding t-shirts and tagging items. 
 
-I recently started an internship with TBD Economics, an environmental economics consultancy. I contribute my reviewing relevant literature and I will soon have the opportunity to complete data analysis and map creation. 
+I recently started an internship with TBD Economics, an environmental economics consultancy. I contribute by reviewing relevant literature and I will soon have the opportunity to complete data analysis and map creation. 
 
 I am also a cellist! I am participate in a non-major cello ensemble on campus in addition to taking lessons. Recently, I have been working on Apres un Reve (Gabriel Faure), Julie-O (Mark Summer), and Meditation (Jules Massenet). 
 
