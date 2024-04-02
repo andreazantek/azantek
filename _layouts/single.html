@@ -8,20 +8,30 @@
     <!-- Header content -->
 
     <!-- Main content of the page -->
+    <main>
+        <article>
+            <!-- Loop through posts -->
+            {% for post in site.posts %}
+                <h2>{{ post.title }}</h2>
+                <p>{{ post.content | markdownify }}</p>
+            {% endfor %}
+        </article>
+    </main>
 
     <!-- Footer -->
     <footer>
         <p>&copy; 2024 Your Name. All rights reserved.</p>
         <!-- Social media links (comment out or remove) -->
-        <!-- <a 
-href="https://www.linkedin.com/in/andrea-zantek-9564811a1/">LinkedIn</a> 
--->
+        <!-- <a href="https://www.linkedin.com/in/andrea-zantek-9564811a1/">LinkedIn</a> -->
         <!-- <a href="https://github.com/azantek">GitHub</a> -->
-        <!-- <a href="https://twitter.com/yourtwitterhandle">Twitter</a> 
--->
+        <!-- <a href="https://twitter.com/yourtwitterhandle">Twitter</a> -->
     </footer>
 
     <!-- Scripts, JavaScript, etc. -->
+
+</body>
+</html>
+
 
 </body>
 </html>
