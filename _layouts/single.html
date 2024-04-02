@@ -1,11 +1,52 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- You can link to an external CSS file or embed CSS styles here -->
+    <style>
+        /* Define your styles here or link an external CSS file */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
 
- <main>
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        article {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <main>
         <article>
             <!-- Display content of a single post -->
             <h2>{{ page.title }}</h2>
-            <p>{{ content | markdownify }}</p>
+            <div>{{ content | markdownify }}</div>
         </article>
     </main>
+</body>
+</html>
+
