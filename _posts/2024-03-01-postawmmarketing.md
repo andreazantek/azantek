@@ -12,5 +12,6 @@ Here is a sample of marketing materials that I created for the Association for W
 
 ![AWM Marketing Presentation](/assets/images/Cider.jpg)
 
-![AWM Marketing Presentation](/assets/images/TEA.pdf)
+
+
 
