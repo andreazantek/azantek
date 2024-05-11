@@ -15,4 +15,4 @@ I recently started an internship with TBD Economics, an environmental economics 
 
 I am also a cellist! I am participate in a non-major cello ensemble on campus in addition to taking lessons. Recently, I have been working on Apres un Reve (Gabriel Faure), Julie-O (Mark Summer), and Meditation (Jules Massenet). 
 
-In my free time, I love to stay busy! I love spending time outside, mainly while running or doing yoga. I also enjoy reading, doing crossword puzzles, and making art. 
+In my free time, I love to stay busy! I love spending time outside, mainly while running or doing yoga. I also enjoy reading and doing crosswords. I love connecting with my creative side through drawing, bullet journaling, and sewing. 
