@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Andrea Zantek"
   avatar : "/assets/images/1592332444545.jpeg"
-  bio    : "Student at Lawrence University studying Mathematics, Economics, and Data Science."
+  bio    : "Data Analyst with expertise in Spatial Analysis, Mathematics, and Data Science."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
