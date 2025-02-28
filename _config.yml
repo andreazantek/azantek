@@ -63,7 +63,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/azantek"
+      url: "https://github.com/andreazantek"
 
       
 
@@ -74,7 +74,7 @@ footer:
       url: "https://www.linkedin.com/in/andrea-zantek-9564811a1/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/azantek"
+      url: "https://github.com/andreazantek"
     # - label: "Feed"
     #   icon: "fas fa-fw fa-rss"
     #   url: "/feed.xml"
